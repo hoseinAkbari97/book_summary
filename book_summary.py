@@ -10,7 +10,7 @@ def extract_text_from_epub(epub_file):
     return ' '.join(text)
 
 # Load your EPUB file
-epub_file = 'path_to_your_book.epub'
+epub_file = 'D:\drive d\python\myProjects\hamketabfilesextra\test.epub'
 book_content = extract_text_from_epub(epub_file)
 
 # Initialize Ollama client and use the model for summarization
