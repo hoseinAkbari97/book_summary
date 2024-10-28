@@ -127,6 +127,7 @@ o_env/
 ENV/
 env.bak/
 o_env.bak/
+o_env/Scripts
 
 # Spyder project settings
 .spyderproject
